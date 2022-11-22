@@ -1,0 +1,15 @@
+C:\Users\prang\Desktop\tabuada-dio\tabuada\tabuada\bin\Debug\net6.0\tabuada.exe
+C:\Users\prang\Desktop\tabuada-dio\tabuada\tabuada\bin\Debug\net6.0\tabuada.deps.json
+C:\Users\prang\Desktop\tabuada-dio\tabuada\tabuada\bin\Debug\net6.0\tabuada.runtimeconfig.json
+C:\Users\prang\Desktop\tabuada-dio\tabuada\tabuada\bin\Debug\net6.0\tabuada.dll
+C:\Users\prang\Desktop\tabuada-dio\tabuada\tabuada\bin\Debug\net6.0\tabuada.pdb
+C:\Users\prang\Desktop\tabuada-dio\tabuada\tabuada\obj\Debug\net6.0\tabuada.csproj.AssemblyReference.cache
+C:\Users\prang\Desktop\tabuada-dio\tabuada\tabuada\obj\Debug\net6.0\tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prang\Desktop\tabuada-dio\tabuada\tabuada\obj\Debug\net6.0\tabuada.AssemblyInfoInputs.cache
+C:\Users\prang\Desktop\tabuada-dio\tabuada\tabuada\obj\Debug\net6.0\tabuada.AssemblyInfo.cs
+C:\Users\prang\Desktop\tabuada-dio\tabuada\tabuada\obj\Debug\net6.0\tabuada.csproj.CoreCompileInputs.cache
+C:\Users\prang\Desktop\tabuada-dio\tabuada\tabuada\obj\Debug\net6.0\tabuada.dll
+C:\Users\prang\Desktop\tabuada-dio\tabuada\tabuada\obj\Debug\net6.0\refint\tabuada.dll
+C:\Users\prang\Desktop\tabuada-dio\tabuada\tabuada\obj\Debug\net6.0\tabuada.pdb
+C:\Users\prang\Desktop\tabuada-dio\tabuada\tabuada\obj\Debug\net6.0\tabuada.genruntimeconfig.cache
+C:\Users\prang\Desktop\tabuada-dio\tabuada\tabuada\obj\Debug\net6.0\ref\tabuada.dll
